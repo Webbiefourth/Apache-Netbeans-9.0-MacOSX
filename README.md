@@ -1,6 +1,8 @@
 # Apache-Netbeans-9.0-MacOSX
 
-I have created a #MacOS package to run #NetBeans natively. The package is available on #GitHub from this link:
+If you want a ready-made MacOS Netbeans package, you've found it. Continue reading this simple read me page. If you want to create your own Netbeans package, on MacOS using simple Bash script, go to https://github.com/Webbiefourth/ASF-Netbeans-MacOSX-packager/blob/master/README.md.
+
+For a prepackaged version 9.0 Netbeans, I have created a #MacOS package to run #NetBeans natively. The package is available on #GitHub from this link:
 https://github.com/Webbiefourth/Apache-Netbeans-9.0-MacOSX …
 
 Download Apache NetBeans 9.x from https://netbeans.apache.org/download/index.html
